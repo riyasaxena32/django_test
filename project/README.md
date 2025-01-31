@@ -31,7 +31,7 @@ A **Django-based** FAQ management system with **multilingual support**, **rich t
 ### **Prerequisites**  
 
 - **Docker & Docker Compose**  
-- **Git**  
+-  **Git**  
 
 ### **Quick Start**  
 
