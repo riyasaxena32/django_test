@@ -1,0 +1,13 @@
+Django>=4.2,<5.0
+psycopg2-binary>=2.9.9
+django-quill-editor>=0.1.40
+djangorestframework>=3.14.0
+pytest>=7.4.3
+pytest-django>=4.7.0
+pytest-cov>=4.1.0
+python-dotenv>=1.0.0
+gunicorn>=21.2.0
+django-redis>=5.4.0
+redis>=5.0.1
+hiredis>=3.1.0
+googletrans==4.0.0-rc1 

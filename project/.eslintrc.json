@@ -1,0 +1,28 @@
+{
+    "env": {
+        "browser": true,
+        "es6": true,
+        "jquery": true
+    },
+    "extends": "eslint:recommended",
+    "globals": {
+        "django": "readonly"
+    },
+    "parserOptions": {
+        "ecmaVersion": 2018
+    },
+    "rules": {
+        "indent": ["error", 4],
+        "linebreak-style": ["error", "unix"],
+        "quotes": ["error", "single"],
+        "semi": ["error", "always"],
+        "no-unused-vars": ["warn"],
+        "no-console": ["warn", { "allow": ["warn", "error"] }],
+        "camelcase": ["error"],
+        "eqeqeq": ["error", "always"],
+        "curly": ["error", "all"],
+        "brace-style": ["error", "1tbs"],
+        "prefer-const": ["warn"],
+        "max-len": ["warn", { "code": 100 }]
+    }
+} 

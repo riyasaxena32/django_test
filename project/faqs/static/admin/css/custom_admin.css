@@ -1,0 +1,89 @@
+/* FAQ Admin Styles */
+.field-translation_status {
+    white-space: nowrap;
+}
+
+.field-last_translated_display {
+    white-space: nowrap;
+}
+
+/* Translation preview sections */
+.field-translation_preview_hi,
+.field-translation_preview_bn {
+    background: #f8f9fa;
+    padding: 15px;
+    border-radius: 4px;
+    margin-top: 10px;
+}
+
+/* Question preview in list view */
+.field-question_preview a {
+    color: #417690;
+    text-decoration: none;
+}
+
+.field-question_preview a:hover {
+    color: #295d82;
+    text-decoration: underline;
+}
+
+/* Custom fieldset styling */
+.module h2 {
+    background: #417690;
+    color: white;
+    padding: 8px 12px;
+    border-radius: 4px 4px 0 0;
+}
+
+/* Translation status indicators */
+.field-translation_status span {
+    padding: 2px 6px;
+    border-radius: 3px;
+    margin: 0 2px;
+    font-weight: bold;
+}
+
+/* Improve readability of translation previews */
+.field-translation_preview_hi strong,
+.field-translation_preview_bn strong {
+    color: #666;
+    display: inline-block;
+    margin-bottom: 5px;
+}
+
+/* Style for the translation age indicator */
+.field-last_translated_display span {
+    padding: 2px 6px;
+    border-radius: 3px;
+    font-weight: bold;
+}
+
+/* Custom styling for action buttons */
+.submit-row input[type="submit"] {
+    border-radius: 4px;
+}
+
+/* Improve visibility of translation settings */
+.field-auto_translate .help {
+    color: #666;
+    font-style: italic;
+    margin-top: 5px;
+}
+
+/* Make the form more compact */
+.form-row {
+    padding: 8px 12px;
+}
+
+/* Improve visibility of required fields */
+.required label, label.required {
+    font-weight: bold;
+    color: #333;
+}
+
+/* Style for collapsed sections */
+.collapsed h2 {
+    background: #f8f9fa;
+    color: #417690;
+    border: 1px solid #ddd;
+} 
