@@ -64,4 +64,4 @@ A **Django-based** FAQ management system with **multilingual support**, **rich t
 
 5️⃣ Access the services:  
    - **Django App:** [http://localhost:8000](http://localhost:8000)  
-  
+  ---
